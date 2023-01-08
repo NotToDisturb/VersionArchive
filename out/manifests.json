@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "manifest": "2B9C4AABEFC317D2",
+        "version_number": "05.12.00.808353",
+        "client_version": "release-05.12-21-808353",
+        "release_timestamp": 1671029621
+    },
+    {
+        "manifest": "2E7DA7E9D52A2BAF",
+        "version_number": "05.12.00.806462",
+        "client_version": "release-05.12-18-806462",
+        "release_timestamp": 1670608114
+    },
+    {
+        "manifest": "88F55276F32F64D0",
+        "version_number": "05.12.00.805187",
+        "client_version": "release-05.12-17-805187",
+        "release_timestamp": 1670436517
+    },
+    {
+        "manifest": "1DE1C9BC6625AEED",
+        "version_number": "05.12.00.804337",
+        "client_version": "release-05.12-15-804337",
+        "release_timestamp": 1670339912
+    },
+    {
+        "manifest": "B5898AB99B597516",
+        "version_number": "05.12.00.803573",
+        "client_version": "release-05.12-9-803573",
+        "release_timestamp": 1670251113
+    },
+    {
+        "manifest": "5584FADDB946BCE7",
+        "version_number": "",
+        "client_version": "pbe-201-802417",
+        "release_timestamp": 1669933996
+    }
+]
