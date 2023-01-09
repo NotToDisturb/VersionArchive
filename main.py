@@ -4,18 +4,19 @@ import shutil
 import numpy as np
 import pandas as pd
 
+from urllib.request import urlretrieve
 from versionutils import get_game_version, get_processed_versions
 
 SHIPPING_EXE = "VALORANT-Win64-Shipping.exe"
 
-RAP_PATH = ".\\res\\Riot Archive Project - Valorant.csv"
+RAP_URL = "https://archive.org/download/valorant-archive/valorant_manifests.txt"
+RAP_PATH = ".\\res\\valorant_manifests.csv"
 MD_PATH = ".\\res\\ManifestDownloader.exe"
 
 MANIFESTS_PATH = ".\\out\\manifests.json"
 
 TEMP_PATH = ".\\temp\\"
 SHIPPING_PATH = TEMP_PATH + "ShooterGame\\Binaries\\Win64\\" + SHIPPING_EXE
-SHIPPING_PBE_PATH = TEMP_PATH + "ShooterGame\\Binaries\\Win64\\VALORANT-Win64-Shipping_PBE.exe"
 
 
 def load_manifests():
@@ -25,7 +26,8 @@ def load_manifests():
 
 def save_manifests(manifests):
     with open(MANIFESTS_PATH, mode="w", encoding="utf-8") as manifests_file:
-        json.dump(manifests, manifests_file, indent=4)
+        sorted_manifests = sorted(manifests, key=lambda v: v["release_timestamp"], reverse=True)
+        json.dump(sorted_manifests, manifests_file, indent=4)
 
 
 def create_temp_folder():
@@ -46,8 +48,10 @@ def extract_manifest_id(manifest_url: str):
 
 # Riot Archive Project
 # https://docs.google.com/spreadsheets/d/18Fl88fB2sI57OFhOFSHtcOlHZG9kMS0uU3kjFxzv_EA/edit#gid=181398849
+# https://archive.org/download/valorant-archive/valorant_manifests.txt
 def get_valorant_rap():
-    rap_valorant = pd.read_csv(RAP_PATH, usecols=[1, 2, 3],
+    urlretrieve(RAP_URL, RAP_PATH)
+    rap_valorant = pd.read_csv(RAP_PATH, usecols=[1, 2, 3], delimiter="\t",
                                header=None, names=["Manifest", "Date", "Time"], index_col=False)
 
     rap_valorant["Timestamp"] = pd.to_datetime(rap_valorant["Date"] + " " + rap_valorant["Time"])
@@ -109,8 +113,10 @@ def archive_valorant_rap(manifests: list, rap_valorant: pd.DataFrame):
 
 def main():
     manifests = load_manifests()
+
     wob = get_processed_versions()
     rap_valorant = get_valorant_rap()
+
     archive_wob(manifests, wob)
     archive_valorant_rap(manifests, rap_valorant)
 
