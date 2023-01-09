@@ -26,7 +26,7 @@ def load_manifests():
 
 def save_manifests(manifests):
     with open(MANIFESTS_PATH, mode="w", encoding="utf-8") as manifests_file:
-        sorted_manifests = sorted(manifests, key=lambda v: v["release_timestamp"], reverse=True)
+        sorted_manifests = sorted(manifests, key=lambda version: version["upload_timestamp"], reverse=True)
         json.dump(sorted_manifests, manifests_file, indent=4)
 
 
@@ -105,7 +105,8 @@ def archive_valorant_rap(manifests: list, rap_valorant: pd.DataFrame):
             "branch": client_version["branch"],
             "version": client_version["version"],
             "date": client_version["date"],
-            "release_timestamp": row["Timestamp"]
+            "release_timestamp": 0,
+            "upload_timestamp": row["Timestamp"]
         }
         manifests.append(archive_manifest)
         # Riot Archive requires downloads, save after every manifest

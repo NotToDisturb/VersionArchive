@@ -10,7 +10,9 @@ The version data has the following structure:
 |`manifest`         |`str`|A hexadecimal string that identifies a patch|
 |`branch`           |`str`|Either `release` or `pbe`|
 |`version`          |`str`|The client version visible in-game|
-|`release_timestamp`|`int`|An integer that represent the release time of the patch in milliseconds|
+|`date`             |`int`|The date of the build|
+|`upload_timestamp` |`int`|UNIX timestamp representing when Riot uploaded the version to their CDN|
+|`release_timestamp`|`int`|UNIX timestamp representing when the version became available to players (`0` if data unavailable)|
 
 The full list can be found in the [`manifests.json`](/out/manifests.json) file.
 
