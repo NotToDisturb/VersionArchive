@@ -56,7 +56,7 @@ def get_valorant_rap():
 
     rap_valorant["Timestamp"] = pd.to_datetime(rap_valorant["Date"] + " " + rap_valorant["Time"])
     rap_valorant["Timestamp"] = rap_valorant["Timestamp"].astype(np.int64) // 10 ** 9
-    return rap_valorant[["Manifest", "Timestamp"]]
+    return rap_valorant[["Manifest", "Timestamp"]].sort_values("Timestamp", ascending=False)
 
 
 def get_manifest_data(manifests: list, manifest: str):

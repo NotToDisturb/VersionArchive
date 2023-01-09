@@ -3,1020 +3,1190 @@
         "manifest": "853077BEBD9F7A51",
         "branch": "pbe",
         "version": "06.00.00.809514",
+        "date": "Dec 16 2022",
         "release_timestamp": 1673115209
     },
     {
         "manifest": "2B9C4AABEFC317D2",
         "branch": "release",
         "version": "05.12.00.808353",
+        "date": "Dec 14 2022",
         "release_timestamp": 1671062525
     },
     {
         "manifest": "2E7DA7E9D52A2BAF",
         "branch": "release",
         "version": "05.12.00.806462",
+        "date": "Dec  9 2022",
         "release_timestamp": 1670657437
     },
     {
         "manifest": "88F55276F32F64D0",
         "branch": "release",
         "version": "05.12.00.805187",
+        "date": "Dec  8 2022",
         "release_timestamp": 1670540909
     },
     {
         "manifest": "1DE1C9BC6625AEED",
         "branch": "release",
         "version": "05.12.00.804337",
+        "date": "Dec  6 2022",
         "release_timestamp": 1670372858
     },
     {
         "manifest": "B5898AB99B597516",
         "branch": "release",
         "version": "05.12.00.803573",
+        "date": "Dec  5 2022",
         "release_timestamp": 1670346435
     },
     {
         "manifest": "5584FADDB946BCE7",
         "branch": "pbe",
         "version": "05.12.00.802417",
+        "date": "Dec  2 2022",
         "release_timestamp": 1670024494
     },
     {
         "manifest": "E3E63E77D37A7A76",
         "branch": "release",
         "version": "05.10.00.796984",
+        "date": "Nov 18 2022",
         "release_timestamp": 1668741849
     },
     {
         "manifest": "F73BF08F064C4311",
         "branch": "release",
         "version": "05.10.00.796177",
+        "date": "Nov 16 2022",
         "release_timestamp": 1668640086
     },
     {
         "manifest": "7AD489497DEE7951",
         "branch": "release",
         "version": "05.10.00.794881",
+        "date": "Nov 14 2022",
         "release_timestamp": 1668532417
     },
     {
         "manifest": "D11CC5F97667F477",
         "branch": "pbe",
         "version": "05.10.00.789746",
+        "date": "Nov  3 2022",
         "release_timestamp": 1667602488
     },
     {
         "manifest": "D44D0973BC4D6050",
         "branch": "release",
         "version": "05.09.00.789344",
+        "date": "Nov  2 2022",
         "release_timestamp": 1667440126
     },
     {
         "manifest": "E9AAD10C7F2222E3",
         "branch": "release",
         "version": "05.09.00.787431",
+        "date": "Oct 30 2022",
         "release_timestamp": 1667318672
     },
     {
         "manifest": "267C772D1D14BC50",
         "branch": "release",
         "version": "05.08.00.782433",
+        "date": "Oct 19 2022",
         "release_timestamp": 1666222440
     },
     {
         "manifest": "C2A478534CA09079",
         "branch": "release",
         "version": "05.08.00.781071",
+        "date": "Oct 17 2022",
         "release_timestamp": 1666101186
     },
     {
         "manifest": "227DF4E0FAD5E5A7",
         "branch": "pbe",
         "version": "05.08.00.779171",
+        "date": "Oct 13 2022",
         "release_timestamp": 1665787045
     },
     {
         "manifest": "34E8544257E203A0",
         "branch": "release",
         "version": "05.07.00.775731",
+        "date": "Oct  6 2022",
         "release_timestamp": 1665107712
     },
     {
         "manifest": "D4D69699C9F16578",
         "branch": "release",
         "version": "05.07.00.774574",
+        "date": "Oct  4 2022",
         "release_timestamp": 1665008329
     },
     {
         "manifest": "8C9916035651A73D",
         "branch": "release",
         "version": "05.07.00.773548",
+        "date": "Oct  1 2022",
         "release_timestamp": 1664902889
     },
     {
         "manifest": "535BE8E30966E742",
         "branch": "pbe",
         "version": "05.07.00.772467",
+        "date": "Sep 29 2022",
         "release_timestamp": 1664577387
     },
     {
         "manifest": "F2D476C3F6EED9B6",
         "branch": "pbe",
         "version": "05.07.00.769186",
+        "date": "Sep 23 2022",
         "release_timestamp": 1663972973
     },
     {
         "manifest": "56592F01486158C4",
         "branch": "release",
         "version": "05.06.00.765767",
+        "date": "Sep 16 2022",
         "release_timestamp": 1663681919
     },
     {
         "manifest": "E7966E9D8D0E237C",
         "branch": "pbe",
         "version": "05.06.00.761801",
+        "date": "Sep  9 2022",
         "release_timestamp": 1662763654
     },
     {
         "manifest": "08FD21AD41B7E3D3",
         "branch": "release",
         "version": "05.05.00.759728",
+        "date": "Sep  6 2022",
         "release_timestamp": 1662569019
     },
     {
         "manifest": "FF9341F8C98FB11A",
         "branch": "pbe",
         "version": "05.05.00.758554",
+        "date": "Sep  2 2022",
         "release_timestamp": 1662158766
     },
     {
         "manifest": "C23E178257D6630B",
         "branch": "pbe",
         "version": "05.05.00.754786",
+        "date": "Aug 26 2022",
         "release_timestamp": 1661553907
     },
     {
         "manifest": "091B3A5E121BF01E",
         "branch": "release",
         "version": "05.04.00.751550",
+        "date": "Aug 22 2022",
         "release_timestamp": 1661264072
     },
     {
         "manifest": "BE9BE099731AAE9E",
         "branch": "pbe",
         "version": "05.04.00.750412",
+        "date": "Aug 19 2022",
         "release_timestamp": 1660948641
     },
     {
         "manifest": "560F9C34ABB4252B",
         "branch": "release",
         "version": "05.03.00.745499",
+        "date": "Aug 10 2022",
         "release_timestamp": 1660169222
     },
     {
         "manifest": "4F3D642D1B1D75A2",
         "branch": "release",
         "version": "05.03.00.744500",
+        "date": "Aug  9 2022",
         "release_timestamp": 1660052363
     },
     {
         "manifest": "B193FEB4A3EE7D46",
         "branch": "pbe",
         "version": "05.03.00.740254",
+        "date": "Jul 29 2022",
         "release_timestamp": 1659135873
     },
     {
         "manifest": "DD1549CBC587B665",
         "branch": "release",
         "version": "05.01.00.732296",
+        "date": "Jul 13 2022",
         "release_timestamp": 1657836272
     },
     {
         "manifest": "06452ABFC9515918",
         "branch": "release",
         "version": "05.01.00.731104",
+        "date": "Jul 11 2022",
         "release_timestamp": 1657644058
     },
     {
         "manifest": "2EA91812BA46E4ED",
         "branch": "release",
         "version": "05.00.00.729462",
+        "date": "Jun 30 2022",
         "release_timestamp": 1656627447
     },
     {
         "manifest": "479B1DC08155E6AF",
         "branch": "pbe",
         "version": "05.01.00.726845",
+        "date": "Jun 24 2022",
         "release_timestamp": 1656110196
     },
     {
         "manifest": "B9B93BC699B727A5",
         "branch": "release",
         "version": "05.00.00.725355",
+        "date": "Jun 21 2022",
         "release_timestamp": 1655905836
     },
     {
         "manifest": "97732F011776878D",
         "branch": "pbe",
         "version": "05.00.00.724186",
+        "date": "Jun 17 2022",
         "release_timestamp": 1655505438
     },
     {
         "manifest": "F5D58BF749C0CCEE",
         "branch": "release",
         "version": "04.11.00.720764",
+        "date": "Jun  9 2022",
         "release_timestamp": 1654812596
     },
     {
         "manifest": "6BFB43865FDF0216",
         "branch": "release",
         "version": "04.11.00.720199",
+        "date": "Jun  8 2022",
         "release_timestamp": 1654733603
     },
     {
         "manifest": "6FBFB7194AEC4D43",
         "branch": "release",
         "version": "04.11.00.718577",
+        "date": "Jun  3 2022",
         "release_timestamp": 1654618090
     },
     {
         "manifest": "07EB0A59B00E8FC2",
         "branch": "pbe",
         "version": "04.11.00.715947",
+        "date": "May 27 2022",
         "release_timestamp": 1653691056
     },
     {
         "manifest": "151C966A92256B28",
         "branch": "release",
         "version": "04.10.00.714978",
+        "date": "May 25 2022",
         "release_timestamp": 1653519187
     },
     {
         "manifest": "E6C1F881D3FEB610",
         "branch": "release",
         "version": "04.10.00.714429",
+        "date": "May 24 2022",
         "release_timestamp": 1653433691
     },
     {
         "manifest": "D3993AD6F85EF9FA",
         "branch": "release",
         "version": "04.10.00.712223",
+        "date": "May 19 2022",
         "release_timestamp": 1653414219
     },
     {
         "manifest": "8985F6B42FA29419",
         "branch": "pbe",
         "version": "04.10.00.709535",
+        "date": "May 13 2022",
         "release_timestamp": 1652481327
     },
     {
         "manifest": "478303552F8EC4F5",
         "branch": "release",
         "version": "04.09.00.708238",
+        "date": "May 10 2022",
         "release_timestamp": 1652225800
     },
     {
         "manifest": "8B7F49AF1C61AE8C",
         "branch": "release",
         "version": "04.09.00.706982",
+        "date": "May  6 2022",
         "release_timestamp": 1651848323
     },
     {
         "manifest": "9AA4B7259ED3C21A",
         "branch": "pbe",
         "version": "04.09.00.703567",
+        "date": "Apr 28 2022",
         "release_timestamp": 1651147699
     },
     {
         "manifest": "E85BB7A6CCB13638",
         "branch": "release",
         "version": "04.08.00.701907",
+        "date": "Apr 25 2022",
         "release_timestamp": 1650900019
     },
     {
         "manifest": "F7CED557EB5D1E2D",
         "branch": "release",
         "version": "04.07.00.699063",
+        "date": "Apr 19 2022",
         "release_timestamp": 1650366783
     },
     {
         "manifest": "09DF49B8FAF5D4CC",
         "branch": "release",
         "version": "04.07.00.697073",
+        "date": "Apr 14 2022",
         "release_timestamp": 1649932657
     },
     {
         "manifest": "DD138FAC03EDCA64",
         "branch": "pbe",
         "version": "04.08.00.696594",
+        "date": "Apr 13 2022",
         "release_timestamp": 1649860719
     },
     {
         "manifest": "4DBC29597749ED58",
         "branch": "release",
         "version": "04.07.00.695220",
+        "date": "Apr 11 2022",
         "release_timestamp": 1649685165
     },
     {
         "manifest": "A4D8EC488407271C",
         "branch": "release",
         "version": "04.05.00.687347",
+        "date": "Mar 24 2022",
         "release_timestamp": 1648130989
     },
     {
         "manifest": "BA52A4E695FBEC6D",
         "branch": "release",
         "version": "04.05.00.685769",
+        "date": "Mar 21 2022",
         "release_timestamp": 1647869695
     },
     {
         "manifest": "D6062CE4CFD9ADA8",
         "branch": "pbe",
         "version": "04.05.00.679711",
+        "date": "Mar  4 2022",
         "release_timestamp": 1646348922
     },
     {
         "manifest": "34A7755183AA5ED2",
         "branch": "release",
         "version": "04.04.00.679250",
+        "date": "Mar  3 2022",
         "release_timestamp": 1646301389
     },
     {
         "manifest": "8AD5EAB21309BADB",
         "branch": "release",
         "version": "04.04.00.678808",
+        "date": "Mar  2 2022",
         "release_timestamp": 1646232118
     },
     {
         "manifest": "4C6210D3FE3B1B9C",
         "branch": "release",
         "version": "04.04.00.677522",
+        "date": "Feb 28 2022",
         "release_timestamp": 1646061718
     },
     {
         "manifest": "3E974F4C797C4EB1",
         "branch": "release",
         "version": "04.03.00.671292",
+        "date": "Feb 14 2022",
         "release_timestamp": 1644853617
     },
     {
         "manifest": "C24F555A2DDDB6FD",
         "branch": "release",
         "version": "04.02.00.667943",
+        "date": "Feb  8 2022",
         "release_timestamp": 1644257022
     },
     {
         "manifest": "539DB0BED2EFE61F",
         "branch": "pbe",
         "version": "04.03.00.666708",
+        "date": "Feb  4 2022",
         "release_timestamp": 1643920691
     },
     {
         "manifest": "96A82CA84139CAEA",
         "branch": "release",
         "version": "04.02.00.664109",
+        "date": "Jan 29 2022",
         "release_timestamp": 1643398436
     },
     {
         "manifest": "020857D1CCD3FEC4",
         "branch": "pbe",
         "version": "04.02.00.660373",
+        "date": "Jan 21 2022",
         "release_timestamp": 1642717400
     },
     {
         "manifest": "0AC43A68969B75AF",
         "branch": "release",
         "version": "04.01.00.659041",
+        "date": "Jan 19 2022",
         "release_timestamp": 1642532780
     },
     {
         "manifest": "E684E38C15B617C4",
         "branch": "release",
         "version": "04.00.00.655657",
+        "date": "Jan 11 2022",
         "release_timestamp": 1641900199
     },
     {
         "manifest": "881B8B988EE0FCED",
         "branch": "release",
         "version": "04.00.00.655110",
+        "date": "Jan 10 2022",
         "release_timestamp": 1641818001
     },
     {
         "manifest": "F71231C6368806C7",
         "branch": "pbe",
         "version": "04.00.00.652963",
+        "date": "Jan  5 2022",
         "release_timestamp": 1641322099
     },
     {
         "manifest": "5C92E71955AF4340",
         "branch": "release",
         "version": "03.12.00.649370",
+        "date": "Dec 16 2021",
         "release_timestamp": 1639591338
     },
     {
         "manifest": "980BB56838A1F8C3",
         "branch": "release",
         "version": "03.12.00.647680",
+        "date": "Dec 13 2021",
         "release_timestamp": 1639401817
     },
     {
         "manifest": "3E3745308437F770",
         "branch": "release",
         "version": "03.12.00.646481",
+        "date": "Dec 10 2021",
         "release_timestamp": 1639081521
     },
     {
         "manifest": "AAE18163A53A720A",
         "branch": "release",
         "version": "03.12.00.645821",
+        "date": "Dec  9 2021",
         "release_timestamp": 1639052162
     },
     {
         "manifest": "3DC7F04EE9FA69D0",
         "branch": "release",
         "version": "03.12.00.644309",
+        "date": "Dec  6 2021",
         "release_timestamp": 1638790524
     },
     {
         "manifest": "519FFC5AB84856C0",
         "branch": "pbe",
         "version": "03.12.00.643084",
+        "date": "Dec  2 2021",
         "release_timestamp": 1638455075
     },
     {
         "manifest": "05E83EB5E32657B9",
         "branch": "release",
         "version": "03.10.00.639263",
+        "date": "Nov 22 2021",
         "release_timestamp": 1637600051
     },
     {
         "manifest": "376A04CC95974716",
         "branch": "release",
         "version": "03.10.00.637823",
+        "date": "Nov 18 2021",
         "release_timestamp": 1637248150
     },
     {
         "manifest": "DD22DD0A983B9611",
         "branch": "release",
         "version": "03.10.00.636955",
+        "date": "Nov 17 2021",
         "release_timestamp": 1637160851
     },
     {
         "manifest": "68EF96E8331F9BC6",
         "branch": "release",
         "version": "03.10.00.635534",
+        "date": "Nov 15 2021",
         "release_timestamp": 1636980552
     },
     {
         "manifest": "665F51AFBAE01CD5",
         "branch": "pbe",
         "version": "03.10.00.634354",
+        "date": "Nov 12 2021",
         "release_timestamp": 1636654691
     },
     {
         "manifest": "2390F0D1CF232B5B",
         "branch": "release",
         "version": "03.09.00.629826",
+        "date": "Nov  3 2021",
         "release_timestamp": 1635944170
     },
     {
         "manifest": "6974F464864677DF",
         "branch": "release",
         "version": "03.09.00.627832",
+        "date": "Oct 30 2021",
         "release_timestamp": 1635540076
     },
     {
         "manifest": "3593F51E8EBFEFA1",
         "branch": "release",
         "version": "03.08.00.622822",
+        "date": "Oct 20 2021",
         "release_timestamp": 1634734575
     },
     {
         "manifest": "7C6B611F6251D3E1",
         "branch": "release",
         "version": "03.08.00.620887",
+        "date": "Oct 15 2021",
         "release_timestamp": 1634308275
     },
     {
         "manifest": "CBD6EDCDC79E0AC5",
         "branch": "pbe",
         "version": "03.08.00.617359",
+        "date": "Oct  8 2021",
         "release_timestamp": 1633689797
     },
     {
         "manifest": "DFF38293ED154D65",
         "branch": "release",
         "version": "03.07.00.617045",
+        "date": "Oct  8 2021",
         "release_timestamp": 1633628924
     },
     {
         "manifest": "8B46697A63F50608",
         "branch": "release",
         "version": "03.07.00.615012",
+        "date": "Oct  4 2021",
         "release_timestamp": 1633358627
     },
     {
         "manifest": "D42D31AF8F27E7F9",
         "branch": "pbe",
         "version": "03.07.00.610303",
+        "date": "Sep 23 2021",
         "release_timestamp": 1632398293
     },
     {
         "manifest": "2AE524D5BC9D2C40",
         "branch": "release",
         "version": "03.06.00.610061",
+        "date": "Sep 23 2021",
         "release_timestamp": 1632340949
     },
     {
         "manifest": "5CF24B3BA3B10136",
         "branch": "release",
         "version": "03.06.00.608725",
+        "date": "Sep 20 2021",
         "release_timestamp": 1632212496
     },
     {
         "manifest": "59B61FAB289F92BF",
         "branch": "pbe",
         "version": "03.06.00.604424",
+        "date": "Sep 10 2021",
         "release_timestamp": 1631207901
     },
     {
         "manifest": "1ABA1E74494ECFAE",
         "branch": "release",
         "version": "03.05.00.603133",
+        "date": "Sep  7 2021",
         "release_timestamp": 1631030624
     },
     {
         "manifest": "78A959FF99C5A129",
         "branch": "pbe",
         "version": "03.05.00.601889",
+        "date": "Sep  3 2021",
         "release_timestamp": 1630607301
     },
     {
         "manifest": "CE6C50A98CBEB523",
         "branch": "release",
         "version": "03.04.00.598547",
+        "date": "Aug 26 2021",
         "release_timestamp": 1629981091
     },
     {
         "manifest": "BE611D2450FF9695",
         "branch": "release",
         "version": "03.04.00.596783",
+        "date": "Aug 23 2021",
         "release_timestamp": 1629718595
     },
     {
         "manifest": "0FB7E8DB65B67FB4",
         "branch": "pbe",
         "version": "03.04.00.592684",
+        "date": "Aug 12 2021",
         "release_timestamp": 1628786270
     },
     {
         "manifest": "E4DE1D5AADE0A1B5",
         "branch": "release",
         "version": "03.03.00.588589",
+        "date": "Jul 29 2021",
         "release_timestamp": 1627567590
     },
     {
         "manifest": "B2A35DC947D39422",
         "branch": "release",
         "version": "03.02.00.587972",
+        "date": "Jul 28 2021",
         "release_timestamp": 1627484613
     },
     {
         "manifest": "DE415D18A7B3A74D",
         "branch": "pbe",
         "version": "03.03.00.586114",
+        "date": "Jul 23 2021",
         "release_timestamp": 1626977899
     },
     {
         "manifest": "053BDD09DAC743DA",
         "branch": "release",
         "version": "03.02.00.584286",
+        "date": "Jul 19 2021",
         "release_timestamp": 1626697116
     },
     {
         "manifest": "6751AAA78ED3D00E",
         "branch": "release",
         "version": "03.01.00.580323",
+        "date": "Jul  9 2021",
         "release_timestamp": 1625772092
     },
     {
         "manifest": "F450BCBE1077D406",
         "branch": "pbe",
         "version": "03.02.00.580210",
+        "date": "Jul  8 2021",
         "release_timestamp": 1625760795
     },
     {
         "manifest": "5174C901F2E44440",
         "branch": "release",
         "version": "03.01.00.579719",
+        "date": "Jul  8 2021",
         "release_timestamp": 1625682972
     },
     {
         "manifest": "83BAEF5275DC682A",
         "branch": "release",
         "version": "03.01.00.578205",
+        "date": "Jul  6 2021",
         "release_timestamp": 1625575884
     },
     {
         "manifest": "D9976CB8DD5AB1FE",
         "branch": "release",
         "version": "03.00.00.574489",
+        "date": "Jun 24 2021",
         "release_timestamp": 1624468061
     },
     {
         "manifest": "EA5726D1B400649A",
         "branch": "release",
         "version": "03.00.00.574459",
+        "date": "Jun 23 2021",
         "release_timestamp": 1624458164
     },
     {
         "manifest": "DC0A204A18EB4F0C",
         "branch": "release",
         "version": "03.00.00.573400",
+        "date": "Jun 21 2021",
         "release_timestamp": 1624283846
     },
     {
         "manifest": "9929800D00F9798F",
         "branch": "release",
         "version": "02.11.00.567060",
+        "date": "Jun  8 2021",
         "release_timestamp": 1623088579
     },
     {
         "manifest": "2DFABDB386CC93FA",
         "branch": "release",
         "version": "02.09.00.560778",
+        "date": "May 22 2021",
         "release_timestamp": 1621618364
     },
     {
         "manifest": "F3584D58904CEB47",
         "branch": "release",
         "version": "02.09.00.558605",
+        "date": "May 18 2021",
         "release_timestamp": 1621339331
     },
     {
         "manifest": "70FEB39929276A16",
         "branch": "release",
         "version": "02.09.00.558095",
+        "date": "May 17 2021",
         "release_timestamp": 1621254434
     },
     {
         "manifest": "F59052A67A0634DD",
         "branch": "release",
         "version": "02.09.00.555474",
+        "date": "May 10 2021",
         "release_timestamp": 1620710223
     },
     {
         "manifest": "FD1D595C637D57AB",
         "branch": "release",
         "version": "02.08.00.550962",
+        "date": "Apr 28 2021",
         "release_timestamp": 1619552129
     },
     {
         "manifest": "7D68997F0CAAC213",
         "branch": "release",
         "version": "02.08.00.550715",
+        "date": "Apr 27 2021",
         "release_timestamp": 1619528114
     },
     {
         "manifest": "820606846B6B8911",
         "branch": "release",
         "version": "02.08.00.550141",
+        "date": "Apr 26 2021",
         "release_timestamp": 1619443814
     },
     {
         "manifest": "6BB835834F0CAF69",
         "branch": "release",
         "version": "02.07.00.546329",
+        "date": "Apr 16 2021",
         "release_timestamp": 1618582512
     },
     {
         "manifest": "15A20D024D0AB138",
         "branch": "release",
         "version": "02.07.00.543856",
+        "date": "Apr 12 2021",
         "release_timestamp": 1618302486
     },
     {
         "manifest": "F5CB995A9C470997",
         "branch": "release",
         "version": "02.06.00.540727",
+        "date": "Apr  5 2021",
         "release_timestamp": 1617622153
     },
     {
         "manifest": "7E969CF0576124F8",
         "branch": "release",
         "version": "02.06.00.539501",
+        "date": "Apr  1 2021",
         "release_timestamp": 1617283450
     },
     {
         "manifest": "A9C4C8DD873AAEBB",
         "branch": "release",
         "version": "02.06.00.538304",
+        "date": "Mar 30 2021",
         "release_timestamp": 1617048851
     },
     {
         "manifest": "6828D69598DECE00",
         "branch": "release",
         "version": "02.05.00.533692",
+        "date": "Mar 18 2021",
         "release_timestamp": 1616065040
     },
     {
         "manifest": "85F3175A4468C34F",
         "branch": "release",
         "version": "02.05.00.531230",
+        "date": "Mar 11 2021",
         "release_timestamp": 1615479137
     },
     {
         "manifest": "92A6179A365E5543",
         "branch": "release",
         "version": "02.04.00.527201",
+        "date": "Mar  2 2021",
         "release_timestamp": 1614697277
     },
     {
         "manifest": "C1978A6B28728C88",
         "branch": "release",
         "version": "02.03.00.522677",
+        "date": "Feb 18 2021",
         "release_timestamp": 1613652617
     },
     {
         "manifest": "48FD3A02C2BEE203",
         "branch": "release",
         "version": "02.03.00.521855",
+        "date": "Feb 16 2021",
         "release_timestamp": 1613493012
     },
     {
         "manifest": "2D4C5F68844E3DCD",
         "branch": "release",
         "version": "02.02.00.517074",
+        "date": "Feb  2 2021",
         "release_timestamp": 1612207870
     },
     {
         "manifest": "47FA8CB468B4DE50",
         "branch": "release",
         "version": "02.01.00.511946",
+        "date": "Jan 15 2021",
         "release_timestamp": 1610720951
     },
     {
         "manifest": "58D4038F44C5D1CF",
         "branch": "release",
         "version": "02.00.00.0510809",
+        "date": "Jan 13 2021",
         "release_timestamp": 1610548035
     },
     {
         "manifest": "9F8CF5FCD604B6CB",
         "branch": "release",
         "version": "02.00.00.0508517",
+        "date": "Jan  7 2021",
         "release_timestamp": 1609955236
     },
     {
         "manifest": "CA64D0F44108A56B",
         "branch": "release",
         "version": "01.14.00.0502227",
+        "date": "Dec 10 2020",
         "release_timestamp": 1607611752
     },
     {
         "manifest": "0E480D2E45D78B79",
         "branch": "release",
         "version": "01.14.00.0501535",
+        "date": "Dec  9 2020",
         "release_timestamp": 1607509457
     },
     {
         "manifest": "3CFCED521624B3A4",
         "branch": "release",
         "version": "01.14.00.0500279",
+        "date": "Dec  5 2020",
         "release_timestamp": 1607119451
     },
     {
         "manifest": "90AEF4A95072A99B",
         "branch": "release",
         "version": "01.12.00.0498671",
+        "date": "Dec  1 2020",
         "release_timestamp": 1606836683
     },
     {
         "manifest": "BF8010EC67A49100",
         "branch": "release",
         "version": "01.12.00.0492454",
+        "date": "Nov 11 2020",
         "release_timestamp": 1605039080
     },
     {
         "manifest": "E14F95C022A863EF",
         "branch": "release",
         "version": "01.11.00.0489089",
+        "date": "Nov  2 2020",
         "release_timestamp": 1604291184
     },
     {
         "manifest": "5097DF97DB35D9F9",
         "branch": "release",
         "version": "01.11.00.0486994",
+        "date": "Oct 26 2020",
         "release_timestamp": 1603728756
     },
     {
         "manifest": "39FB0AF587CA1F08",
         "branch": "release",
         "version": "01.10.00.0483114",
+        "date": "Oct 15 2020",
         "release_timestamp": 1602763635
     },
     {
         "manifest": "FE7450B9B714BD40",
         "branch": "release",
         "version": "01.10.00.0482738",
+        "date": "Oct 14 2020",
         "release_timestamp": 1602692845
     },
     {
         "manifest": "0E6AE33BBF61EBEF",
         "branch": "release",
         "version": "01.10.00.0482043",
+        "date": "Oct 13 2020",
         "release_timestamp": 1602576007
     },
     {
         "manifest": "56A6C0016FBD2F63",
         "branch": "release",
         "version": "01.09.00.0477663",
+        "date": "Oct  1 2020",
         "release_timestamp": 1601493671
     },
     {
         "manifest": "7F0CA9B06DD016F7",
         "branch": "release",
         "version": "01.09.00.0476712",
+        "date": "Sep 29 2020",
         "release_timestamp": 1601313672
     },
     {
         "manifest": "AD5D95C9628E3A6F",
         "branch": "release",
         "version": "01.08.00.0471230",
+        "date": "Sep 15 2020",
         "release_timestamp": 1600176432
     },
     {
         "manifest": "F1172AFB9747B35A",
         "branch": "release",
         "version": "01.07.00.0470745",
+        "date": "Sep 14 2020",
         "release_timestamp": 1600099152
     },
     {
         "manifest": "498BF271747A5398",
         "branch": "release",
         "version": "01.07.00.0467525",
+        "date": "Sep  3 2020",
         "release_timestamp": 1599135258
     },
     {
         "manifest": "DC9FB2EC64911FD8",
         "branch": "release",
         "version": "01.07.00.0466913",
+        "date": "Sep  2 2020",
         "release_timestamp": 1599000551
     },
     {
         "manifest": "530CCBF58A92FAE2",
         "branch": "release",
         "version": "01.07.00.0466209",
+        "date": "Aug 31 2020",
         "release_timestamp": 1598873961
     },
     {
         "manifest": "66A7EE71924DEF1F",
         "branch": "release",
         "version": "01.06.00.0465139",
+        "date": "Aug 27 2020",
         "release_timestamp": 1598464219
     },
     {
         "manifest": "8CE4A2C0083DAC46",
         "branch": "release",
         "version": "01.06.00.0463397",
+        "date": "Aug 20 2020",
         "release_timestamp": 1597938077
     },
     {
         "manifest": "9E27D9BA405CD472",
         "branch": "release",
         "version": "01.06.00.0462572",
+        "date": "Aug 18 2020",
         "release_timestamp": 1597768529
     },
     {
         "manifest": "578286EE06027CF5",
         "branch": "release",
         "version": "01.05.00.0460559",
+        "date": "Aug  6 2020",
         "release_timestamp": 1596658519
     },
     {
         "manifest": "E08B300C449184DE",
         "branch": "release",
         "version": "01.05.00.0460129",
+        "date": "Aug  5 2020",
         "release_timestamp": 1596574859
     },
     {
         "manifest": "DB6493AE07146C39",
         "branch": "release",
         "version": "01.05.00.0459431",
+        "date": "Aug  3 2020",
         "release_timestamp": 1596447023
     },
     {
         "manifest": "AE42C35F98B3EBA2",
         "branch": "release",
         "version": "01.04.00.0456954",
+        "date": "Jul 27 2020",
         "release_timestamp": 1595854622
     },
     {
         "manifest": "DA2D4AB9ACC4EDA0",
         "branch": "release",
         "version": "01.04.00.0455622",
+        "date": "Jul 22 2020",
         "release_timestamp": 1595499555
     },
     {
         "manifest": "770F1734EE35A102",
         "branch": "release",
         "version": "01.04.00.0454860",
+        "date": "Jul 21 2020",
         "release_timestamp": 1595328816
     },
     {
         "manifest": "D932A41C8EF0CAA2",
         "branch": "release",
         "version": "01.03.00.0450822",
+        "date": "Jul  7 2020",
         "release_timestamp": 1594128136
     },
     {
         "manifest": "99D42218BF8844F7",
         "branch": "release",
         "version": "01.02.00.0449081",
+        "date": "Jun 30 2020",
         "release_timestamp": 1593515294
     },
     {
         "manifest": "6F83B2430A8CBFCD",
         "branch": "release",
         "version": "01.02.00.0447750",
+        "date": "Jun 25 2020",
         "release_timestamp": 1593104297
     },
     {
         "manifest": "08B0828959EF48DF",
         "branch": "release",
         "version": "01.02.00.0447105",
+        "date": "Jun 24 2020",
         "release_timestamp": 1592934495
     },
     {
         "manifest": "F631EA8D25B5DFFB",
         "branch": "release",
         "version": "01.02.00.0446219",
+        "date": "Jun 20 2020",
         "release_timestamp": 1592596998
     },
     {
         "manifest": "9148B41D576ABEE0",
         "branch": "release",
         "version": "01.01.00.0441589",
+        "date": "Jun  8 2020",
         "release_timestamp": 1591624516
     },
     {
         "manifest": "156603F8CD75006A",
         "branch": "release",
         "version": "01.00.0.0440041",
+        "date": "Jun  3 2020",
         "release_timestamp": 1591198584
     },
     {
         "manifest": "16F543509D445859",
         "branch": "release",
         "version": "01.00.0.0439508",
+        "date": "Jun  2 2020",
         "release_timestamp": 1591096877
     },
     {
         "manifest": "0791E14BA7AC44FE",
         "branch": "release",
         "version": "01.00.0.0438423",
+        "date": "May 29 2020",
         "release_timestamp": 1590714386
     },
     {
         "manifest": "5BBA7874F213687D",
         "branch": "release",
         "version": "0.50.0.0430206",
+        "date": "May  9 2020",
         "release_timestamp": 1588970368
     },
     {
         "manifest": "DCBDCE95D8C1CF26",
         "branch": "release",
         "version": "0.49.0.0427630",
+        "date": "May  4 2020",
         "release_timestamp": 1588598172
     },
     {
         "manifest": "8404D6441DBD89A5",
         "branch": "release",
         "version": "0.49.0.0426240",
+        "date": "Apr 30 2020",
         "release_timestamp": 1588194371
     },
     {
         "manifest": "F0A473620075FC4B",
         "branch": "release",
         "version": "0.47.0.0422649",
+        "date": "Apr 21 2020",
         "release_timestamp": 1587423610
     },
     {
         "manifest": "198A6AB4AADCDCB3",
         "branch": "release",
         "version": "0.47.0.0420086",
+        "date": "Apr 14 2020",
         "release_timestamp": 1586855412
     },
     {
         "manifest": "B419A6059A40FA98",
         "branch": "release",
         "version": "0.47.0.0417009",
+        "date": "Apr  4 2020",
         "release_timestamp": 1585933810
     },
     {
         "manifest": "76652DE661983A6A",
         "branch": "release",
         "version": "0.47.0.0416249",
+        "date": "Apr  2 2020",
         "release_timestamp": 1585763232
     }
 ]
