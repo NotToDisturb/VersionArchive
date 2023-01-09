@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 from urllib.request import urlretrieve
-from versionutils import get_game_version, get_processed_versions
+from versionutils import get_game_version, get_processed_wob_versions
 
 SHIPPING_EXE = "VALORANT-Win64-Shipping.exe"
 
@@ -76,7 +76,6 @@ def fetch_shipping_exe(manifest: str):
 
 def archive_wob(manifests, wob):
     for version in wob:
-
         if get_manifest_data(manifests, version["manifest"]):
             print(f"{version['manifest']} (WOB): existing archive")
             continue
@@ -94,6 +93,7 @@ def archive_valorant_rap(manifests: list, rap_valorant: pd.DataFrame):
         if manifest_data:
             print(f"{manifest} (Riot Archive): existing archive")
             continue
+
         print(f"{manifest} (Riot Archive): new archive")
         create_temp_folder()
         fetch_shipping_exe(row["Manifest"])
@@ -104,6 +104,7 @@ def archive_valorant_rap(manifests: list, rap_valorant: pd.DataFrame):
             "manifest": manifest,
             "branch": client_version["branch"],
             "version": client_version["version"],
+            "date": client_version["date"],
             "release_timestamp": row["Timestamp"]
         }
         manifests.append(archive_manifest)
@@ -114,7 +115,7 @@ def archive_valorant_rap(manifests: list, rap_valorant: pd.DataFrame):
 def main():
     manifests = load_manifests()
 
-    wob = get_processed_versions()
+    wob = get_processed_wob_versions()
     rap_valorant = get_valorant_rap()
 
     archive_wob(manifests, wob)

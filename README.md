@@ -1,6 +1,6 @@
 # VersionArchive
 A repository containing data for VALORANT versions.
-You might also want to check out [VersionUtils](https://github.com/NotToDisturb/VersionUtils)
+You might also want to check out [VersionUtils](https://github.com/NotToDisturb/VersionUtils).
 
 ## Regarding the data
 The version data has the following structure:
@@ -16,4 +16,5 @@ The full list can be found in the [`manifests.json`](/out/manifests.json) file.
 
 ## Credits
 floxay [Go](https://github.com/floxay) <br>
+Shiick [Go](https://github.com/Shiick) <br>
 PixelButts [Go](https://twitter.com/PixelButts)
