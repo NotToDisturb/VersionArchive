@@ -1,5 +1,29 @@
 [
     {
+        "manifest": "D51FE09FECA62E1A",
+        "branch": "release",
+        "version": "06.01.00.815441",
+        "date": "Jan 13 2023",
+        "upload_timestamp": 1673577089,
+        "release_timestamp": 1674062277
+    },
+    {
+        "manifest": "4C511179FDC9B411",
+        "branch": "release",
+        "version": "06.00.00.814611",
+        "date": "Jan 11 2023",
+        "upload_timestamp": 1673466765,
+        "release_timestamp": 1673478829
+    },
+    {
+        "manifest": "F8EF3E961DAAED46",
+        "branch": "release",
+        "version": "06.00.00.812534",
+        "date": "Jan  6 2023",
+        "upload_timestamp": 1672973864,
+        "release_timestamp": 1673369238
+    },
+    {
         "manifest": "853077BEBD9F7A51",
         "branch": "pbe",
         "version": "06.00.00.809514",
