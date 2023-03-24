@@ -9,7 +9,7 @@ from versionutils import get_game_version, get_processed_wob_versions, extract_m
 
 SHIPPING_EXE = "VALORANT-Win64-Shipping.exe"
 
-RAP_URL = "https://archive.org/download/valorant-archive/valorant_manifests.txt"
+RAP_URL = "https://archive.org/download/valorant-archive/valorant/valorant_manifests.txt"
 RAP_PATH = ".\\res\\valorant_manifests.csv"
 MD_PATH = ".\\res\\ManifestDownloader.exe"
 
@@ -48,7 +48,7 @@ def delete_temp_folder():
 
 # Riot Archive Project
 # https://docs.google.com/spreadsheets/d/18Fl88fB2sI57OFhOFSHtcOlHZG9kMS0uU3kjFxzv_EA/edit#gid=181398849
-# https://archive.org/download/valorant-archive/valorant_manifests.txt
+# https://archive.org/download/valorant-archive/valorant/valorant_manifests.txt
 def get_valorant_rap():
     urlretrieve(RAP_URL, RAP_PATH)
     rap_valorant = pd.read_csv(RAP_PATH, usecols=[1, 2, 3], delimiter="\t",
