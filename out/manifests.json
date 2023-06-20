@@ -1,5 +1,21 @@
 [
     {
+        "manifest": "BF4FC531B7C85FEB",
+        "branch": "release",
+        "version": "06.11.00.900116",
+        "date": "Jun 12 2023",
+        "upload_timestamp": 1686605964,
+        "release_timestamp": 1686611015
+    },
+    {
+        "manifest": "31EAF0476583A95D",
+        "branch": "release",
+        "version": "06.11.00.893942",
+        "date": "Jun  5 2023",
+        "upload_timestamp": 1685984995,
+        "release_timestamp": 1686067368
+    },
+    {
         "manifest": "7084867161B3AFE6",
         "branch": "pbe",
         "version": "06.11.00.889241",
