@@ -117,10 +117,10 @@ def main():
     manifests = load_manifests()
 
     wob = get_processed_wob_versions()
-    rap_valorant = get_valorant_rap()
+    # rap_valorant = get_valorant_rap()
 
     archive_wob(manifests, wob)
-    archive_valorant_rap(manifests, rap_valorant)
+    # archive_valorant_rap(manifests, rap_valorant)
 
 
 if __name__ == "__main__":
