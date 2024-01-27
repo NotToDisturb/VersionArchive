@@ -1,5 +1,93 @@
 [
     {
+        "manifest": "F42B41E3F26B3769",
+        "branch": "release",
+        "version": "08.01.00.2228372",
+        "date": "Jan 19 2024",
+        "upload_timestamp": 1705632795,
+        "release_timestamp": 1706029562
+    },
+    {
+        "manifest": "D15AAF88C760E377",
+        "branch": "release",
+        "version": "08.00.00.2191955",
+        "date": "Jan  3 2024",
+        "upload_timestamp": 1704314848,
+        "release_timestamp": 1704814526
+    },
+    {
+        "manifest": "600F3DBD3C6DCCCD",
+        "branch": "pbe",
+        "version": "08.00.00.2194437",
+        "date": "Jan  4 2024",
+        "upload_timestamp": 1704402793,
+        "release_timestamp": 1704497961
+    },
+    {
+        "manifest": "4DEC7F15B6BBF76C",
+        "branch": "release",
+        "version": "07.12.00.2164217",
+        "date": "Dec  8 2023",
+        "upload_timestamp": 1702007849,
+        "release_timestamp": 1702011631
+    },
+    {
+        "manifest": "19FEA772CDF1181F",
+        "branch": "release",
+        "version": "07.12.00.2157028",
+        "date": "Dec  6 2023",
+        "upload_timestamp": 1701825149,
+        "release_timestamp": 1701904071
+    },
+    {
+        "manifest": "56FFCC1A534C6E4C",
+        "branch": "release",
+        "version": "07.12.00.2149712",
+        "date": "Dec  4 2023",
+        "upload_timestamp": 1701716250,
+        "release_timestamp": 1701800821
+    },
+    {
+        "manifest": "BE559E4A67BDFBA6",
+        "branch": "pbe",
+        "version": "07.12.00.2147447",
+        "date": "Dec  1 2023",
+        "upload_timestamp": 1701405526,
+        "release_timestamp": 1701473648
+    },
+    {
+        "manifest": "A44E14DBAD9DD21B",
+        "branch": "release",
+        "version": "07.10.00.2100005",
+        "date": "Nov 10 2023",
+        "upload_timestamp": 1699588293,
+        "release_timestamp": 1699981467
+    },
+    {
+        "manifest": "CBBF26BB25D4B1B7",
+        "branch": "pbe",
+        "version": "07.10.00.1029001",
+        "date": "Nov  3 2023",
+        "upload_timestamp": 1699042115,
+        "release_timestamp": 1699050956
+    },
+    {
+        "manifest": "44FE57C73280C54D",
+        "branch": "release",
+        "version": "07.09.00.1022235",
+        "date": "Oct 28 2023",
+        "upload_timestamp": 1698456552,
+        "release_timestamp": 1698765603
+    },
+    {
+        "manifest": "86F2A9F68F2D905E",
+        "branch": "pbe",
+        "version": "07.09.00.1020639",
+        "date": "Oct 26 2023",
+        "upload_timestamp": 1698353322,
+        "release_timestamp": 1698446083
+    },
+    {
         "manifest": "546F3E34F277B921",
         "branch": "release",
         "version": "07.08.00.1007528",
