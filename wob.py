@@ -1,11 +1,15 @@
 import json
-from urllib.request import urlopen
+
+from urllib.request import Request, urlopen
+from fake_useragent import UserAgent
 
 WOB_URL = "https://raw.githubusercontent.com/WhiteOwlBot/WhiteOwl-public-data/main/manifests.json"
 
 
 def get_wob_manifests() -> list:
-    raw_manifests = urlopen(WOB_URL).read().decode("utf-8")
+    request = Request(WOB_URL)
+    request.add_header("User-Agent", UserAgent().random)
+    raw_manifests = urlopen(request).read().decode("utf-8")
     processed_manifests = [process_manifest(version) for version in json.loads(raw_manifests)]
     return sorted(
         processed_manifests,
