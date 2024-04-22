@@ -1,5 +1,21 @@
 [
     {
+        "manifest": "4A1DDB75FCE334E2",
+        "branch": "release",
+        "version": "08.07.00.2444158",
+        "date": "Apr 12 2024",
+        "upload_timestamp": 1712950230,
+        "release_timestamp": 1713278788
+    },
+    {
+        "manifest": "D05648478EDDEF63",
+        "branch": "release",
+        "version": "08.05.00.2431885",
+        "date": "Apr  9 2024",
+        "upload_timestamp": 1712628930,
+        "release_timestamp": 1712700757
+    },
+    {
         "manifest": "2AFEC3AF4827B591",
         "branch": "pbe",
         "version": "08.07.00.2425120",
