@@ -1,0 +1,2 @@
+py manifest_archiver.py
+pause
