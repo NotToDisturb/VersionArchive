@@ -1,5 +1,29 @@
 [
     {
+        "manifest": "9EDBB66DDAF03A61",
+        "branch": "release",
+        "version": "08.08.00.2493420",
+        "date": "May  2 2024",
+        "upload_timestamp": 1714688616,
+        "release_timestamp": 1714700565
+    },
+    {
+        "manifest": "7CA59DAAE48FCDEA",
+        "branch": "release",
+        "version": "08.08.00.2470575",
+        "date": "Apr 23 2024",
+        "upload_timestamp": 1713918508,
+        "release_timestamp": 1714497215
+    },
+    {
+        "manifest": "77C5D20BAAAC66C0",
+        "branch": "release",
+        "version": "08.07.00.2460481",
+        "date": "Apr 19 2024",
+        "upload_timestamp": 1713498032,
+        "release_timestamp": 1713824847
+    },
+    {
         "manifest": "4A1DDB75FCE334E2",
         "branch": "release",
         "version": "08.07.00.2444158",
